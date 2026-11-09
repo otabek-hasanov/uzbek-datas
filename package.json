@@ -1,0 +1,14 @@
+{
+  "name": "uzbek-datas",
+  "version": "1.0.0",
+  "description": "O'zbekcha tasodifiy ism, familiya, joylashuv va telefon ma'lumotlari generatori",
+  "main": "index.js",
+  "exports": "./index.js",
+  "type": "commonjs",
+  "scripts": { "test": "node --test", "example": "node examples/demo.js" },
+  "engines": { "node": ">=18" },
+  "files": ["index.js", "src", "README.md", "LICENSE"],
+  "keywords": ["uzbek", "faker", "fake-data", "names", "uzbekistan"],
+  "repository": { "type": "git", "url": "git+https://github.com/otabek-hasanov/uzbek-datas.git" },
+  "license": "MIT"
+}
